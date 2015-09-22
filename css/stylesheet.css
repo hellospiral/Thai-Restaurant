@@ -1,0 +1,11 @@
+h2 {
+  display: block;
+  text-align: center;
+  padding: 15px;
+  color: #777;
+  font-family: 'Raleway', sans-serif;
+}
+
+img {
+  margin: auto;
+}
