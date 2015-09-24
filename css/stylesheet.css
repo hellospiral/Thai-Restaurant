@@ -1,11 +1,47 @@
-h2 {
-  display: block;
-  text-align: center;
-  padding: 15px;
+body {
   color: #777;
   font-family: 'Raleway', sans-serif;
 }
 
+h1, h2, p {
+  display: block;
+  text-align: center;
+  padding: 15px;
+}
+
 img {
   margin: auto;
+}
+
+.hours {
+  display: inline;
+  float: left;
+  margin: auto;
+}
+
+.hours ul {
+  list-style: none;
+  text-align: center;
+}
+
+.contact {
+  display: inline;
+  float: left;
+  margin: auto;
+}
+
+.contact address {
+  text-align: center;
+}
+iframe {
+  padding: 15px;
+}
+
+.container {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+ul {
+  padding: 0;
 }
