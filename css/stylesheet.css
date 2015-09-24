@@ -44,4 +44,7 @@ iframe {
 }
 ul {
   padding: 0;
+  text-align: center;
+  margin: 15px;
+  list-style: none;
 }
