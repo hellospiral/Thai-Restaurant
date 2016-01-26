@@ -6,7 +6,7 @@
 
 ## Description
 
-This was a site to exercise my front-end skills by making a web site for an imaginary Thai restaurant.
+This was a site to exercise my front-end skills by making a web site for an imaginary Thai restaurant with HTML, CSS, Bootstrap, and JQuery.
 
 ## Setup
 
